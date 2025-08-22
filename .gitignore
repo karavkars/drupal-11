@@ -1,0 +1,18 @@
+/.editorconfig
+/.gitattributes
+
+vendor/
+docroot/.*
+docroot/*.php
+docroot/*.txt
+docroot/web.config
+docroot/core/
+docroot/modules/contrib/
+docroot/themes/contrib/
+docroot/profiles/contrib/
+docroot/libraries/
+recipes/
+
+
+# Ignore Drupal's file directory.
+docroot/sites/*/files/
