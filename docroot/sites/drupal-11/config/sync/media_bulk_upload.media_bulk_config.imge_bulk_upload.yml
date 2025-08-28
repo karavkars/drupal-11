@@ -1,0 +1,12 @@
+uuid: 9b67f57c-7a27-4a75-8038-9499faef654c
+langcode: en
+status: true
+dependencies: {  }
+id: imge_bulk_upload
+label: 'Imge bulk upload'
+media_types:
+  image: image
+form_mode: ''
+upload_location: 'public://image-upload'
+show_alt: null
+show_title: null

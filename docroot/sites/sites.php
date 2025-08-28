@@ -1,2 +1,2 @@
 <?php
-$sites['drupal-10.ddev.site'] = 'drupal-10';
+$sites['drupal-11.ddev.site'] = 'drupal-11';
